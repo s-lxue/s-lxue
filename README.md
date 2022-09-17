@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Sharon Xue @s-lxue
 - 👀 I’m interested in Data Analytics, Web Development, and Software Enginering 
 - 🌱 I’m currently learning how to code in C, HTML and CSS Web Design, and Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Feel free to contact me at my email slxue@andrew.cmu.edu
 - Connect with me on Linkedin: Sharon Xue https://www.linkedin.com/in/sharon-xue-969b74230/
 
 <!---
